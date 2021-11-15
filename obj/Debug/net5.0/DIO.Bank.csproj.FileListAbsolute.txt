@@ -1,0 +1,16 @@
+C:\vscodeprojetos\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+C:\vscodeprojetos\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+C:\vscodeprojetos\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+C:\vscodeprojetos\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+C:\vscodeprojetos\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+C:\vscodeprojetos\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+C:\vscodeprojetos\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+C:\vscodeprojetos\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+C:\vscodeprojetos\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscodeprojetos\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\vscodeprojetos\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+C:\vscodeprojetos\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\vscodeprojetos\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+C:\vscodeprojetos\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+C:\vscodeprojetos\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+C:\vscodeprojetos\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
